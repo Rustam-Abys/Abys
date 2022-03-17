@@ -1,0 +1,62 @@
+* {
+    padding: 0;
+    margin: 0;
+  }
+
+
+div, h1, h2, h3, h4, h5, h6, p, img {
+    margin: 0;
+    padding: 0;
+}
+
+.theme-logo {
+    color: rgb(27, 27, 27);
+}
+
+.start-teamabys {
+    background-color: RGB(28,28,28);
+    width: 100%;
+    padding-top: 3%;
+}
+
+
+.start {
+    background-color: RGB(40,40,40);
+    width: 100%;
+    padding-top: 3%;
+}
+
+.centered {
+    padding: 0px auto;
+    text-align: center;
+}
+
+h1, h2, h3, h4, h5, h6 {
+    color: white;
+}
+
+h1 {
+    font-size: 4rem;
+}
+
+.About-us {
+    background-color: rgb(240, 240, 240);
+}
+
+.aut {
+    padding-top: 5%;
+    padding-bottom: 1%;
+    font-size: 2rem;
+    color: black;
+}
+
+@font-face {
+    font-family: "abys";  
+    src: url("../fonts/abys_regular.ttf") format("truetype"); 
+    font-style: normal; 
+    font-weight: normal;
+     }
+
+.font-abys {
+    font-family: "abys";
+}
